@@ -7,8 +7,6 @@ DJI
 宇树
 王兴兴
 
-智元
-灵犀
 稚晖君
 彭志辉
 
@@ -24,9 +22,6 @@ DJI
 
 三体
 流浪地球
-刘慈欣
-郭帆
-
 
 京东
 刘强东
@@ -51,10 +46,12 @@ AMD
 google
 gemini
 deepmind
+nanobanana
 
 chatgpt
 openai
 sora
+aigc
 
 claude
 Anthropic
@@ -68,7 +65,10 @@ gdc
 ign
 ps5
 sony
-deathstranding
+unreal
+switch
+Nintendo
+steam
 
 ai
 !gai
@@ -78,15 +78,11 @@ ai
 
 机器人
 
-
-
 美国
 日本
 韩国
 
 科技
-
-核能
 
 月球
 登月
