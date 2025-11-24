@@ -1,9 +1,6 @@
 DeepSeek
 梁文锋
 
-大疆
-DJI
-
 宇树
 王兴兴
 
@@ -17,8 +14,6 @@ DJI
 梁其伟
 
 
-!车
-!餐
 
 三体
 流浪地球
@@ -51,7 +46,6 @@ nanobanana
 chatgpt
 openai
 sora
-aigc
 
 claude
 Anthropic
@@ -63,11 +57,15 @@ ios
 
 gdc
 ign
+
 ps5
 sony
+
 unreal
+
 switch
 Nintendo
+
 steam
 
 ai
@@ -83,10 +81,3 @@ ai
 韩国
 
 科技
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
